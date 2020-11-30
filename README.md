@@ -1,3 +1,3 @@
 # RepositorioJailson
 Meu primeiro repositorio
-Eu gosto de :pizza:, and :coffee:
+Eu gosto de :pizza:, e :coffee:
